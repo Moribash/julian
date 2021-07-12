@@ -1,0 +1,1 @@
+i left notes in there in case you want to learn how to make a web server ;)
